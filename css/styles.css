@@ -65,19 +65,22 @@ nav ul li a:hover {
 }
 
 #main {
-    width: 446px;
+  width: 446px;
     padding: 10px;
     float: left;
     color: black;
     border-left: none;
     border-right: none;
+}
 	table, th, td {
   border: 1px solid;
   empty-cells: hide;
   padding: 10px;
-  width: 100%;
+  width: 100%;	
 }
-}
+  
+
+
 
 #main p {
     text-indent: 1.5em;
